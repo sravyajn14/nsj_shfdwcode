@@ -1,0 +1,8 @@
+File Name: C:\Users\Sravya\Documents\Developer\sample_input\events.txt
+Number of customers: 3
+Ouput : 
+Number of events: 14
+Printing top 3 customers lift time value
+Event key: 76f55c7d8f42, Event time: Jan 6, 2017 12:46:00 AM, last name: Micheal, city: Middletown, state: AK, lift time value: 10002.34
+Event key: 86f55c7d8f42, Event time: Jan 6, 2017 12:46:00 AM, last name: Josh, city: Middletown, state: AK, lift time value: 102.34
+Event key: 96f55c7d8f42, Event time: Jan 6, 2017 12:46:00 AM, last name: Smith, city: Middletown, state: AK, lift time value: 12.34
